@@ -3,7 +3,7 @@ CSE4035 Compiler Construction, Undergraduate School
 
 Home works and Lab. Materials
 
-
+*언어 변경 가능. 원본 코드는 C
 Scanner-(token)->Parser[hw2 구현부 여기까지]+SDT-(AST)->Ucode Translater-(UCode *u.c *u.c.o)
 ->UCode Interpreter(input: Data, output: Execution result)
 
