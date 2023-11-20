@@ -26,5 +26,5 @@ right parse 출력까지가 hw2 과제
 mat[M][N] 사이즈
 mat[i][j]
 
-->mat+i*Mj
+->mat+i*M+j
 
