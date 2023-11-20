@@ -19,3 +19,12 @@ right parse 출력까지가 hw2 과제
 
 .uco -> Interpreter의 input으로 넣기
 
+[U-code Program 마방진 과제]
+
+
+2차원 배열로 표기된 알고리즘을 1차원 배열로 읽어 처리하는 알고리즘이 필요함.
+mat[M][N] 사이즈
+mat[i][j]
+
+->mat+i*Mj
+
